@@ -10,5 +10,5 @@ Any user can interact with the contract as the contract has been verified. Also 
 But in case, we are deploying the contract on our own blockchain netwrok we need to deploy even the supplementary contract.
 
 ```
-For interacting with the contract deployed on the mainnet, the user needs to connect his metamask wallet with the contract
+For interacting with the contract deployed on the mainnet, the user needs to connect his metamask wallet with the contract 
 ```
